@@ -1,6 +1,4 @@
-Here's the revised version of the README:
 
----
 
 # Stick Hero Game
 
@@ -103,4 +101,4 @@ Stick Hero is an exciting adventure that tests your reflexes and decision-making
 
 ---
 
-This version organizes the information more clearly and ensures all necessary details are conveyed properly.
+
